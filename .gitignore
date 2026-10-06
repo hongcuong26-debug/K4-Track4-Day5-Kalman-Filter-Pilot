@@ -16,6 +16,9 @@
 .DS_Store
 .latexmkrc
 
+# Temporary notebook execution and verification
+scratch/
+
 # Instructor-only. Keep locally; do not ship to students.
 Lab/kalman_fusion_lab_SOLUTIONS.ipynb
 Lab/instructor_answer_key.py
